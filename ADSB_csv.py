@@ -62,7 +62,7 @@ ColumnIndex = {'Code':4,'Time':7,'Ident':10,'Alt':11,'GS':12,'TC':13,
 #sourcefile = 'BKN47.csv'
 #sourcefile = 'BKN20_1.csv'
 #sourcefile = '09-17-15.csv'
-sourcefile = 'Plane_09-13-16.txt'
+sourcefile = '09-13-16.txt'
 
 
 Code, Date, Time, Alt, GS, Lat, Long = csv_extract_col(sourcefile)
